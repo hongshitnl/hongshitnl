@@ -6,7 +6,7 @@
 
 <div id="internet card" align=center>
 
-[![bilibili](https://img.shields.io/badge/video-Bilibili-red)](https://space.bilibili.com/662632484)
+[![bilibili](https://img.shields.io/badge/video-Bilibili-pink)](https://space.bilibili.com/662632484)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 </div>
@@ -20,6 +20,6 @@
 
 ![头像](image/头像.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hongshitnl/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
