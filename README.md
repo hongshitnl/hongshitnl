@@ -6,7 +6,7 @@
 
 <div id="internet card" align=center>
 
-[![bilibili](https://www.bilibili.com/?spm_id_from=333.1007.0.0)](https://www.zhihu.com/people/o4ze4r)
+[![bilibili](https://img.shields.io/badge/video-Bilibili-pink)](https://space.bilibili.com/662632484)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 </div>
