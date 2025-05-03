@@ -6,7 +6,7 @@
 
 <div id="internet card" align=center>
 
-[![bilibili](https://img.shields.io/badge/video-Bilibili-pink)](https://space.bilibili.com/662632484)
+[![bilibili](https://img.shields.io/badge/video-Bilibili-red)](https://space.bilibili.com/662632484)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 </div>
